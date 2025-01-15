@@ -1,0 +1,66 @@
+[
+
+
+
+
+  {
+    "isim": "Salon 1",
+    "durum": "Aktif",
+    "oturmaKapasitesi": 200,
+    "ekranTipi": "Standart",
+    "guncelFilm": {
+      "filmAdi": "The Dark Knight",
+      "filmTuru": "Aksiyon",
+      "filmSuresi": 152,
+      "filmYonetmeni": "Christopher Nolan"
+    },
+    "filmMusteriListesi": [
+      {
+        "isim": "Ayşe",
+        "durum": "Aktif",
+        "email": "ayse@example.com",
+        "telefonNo": "1234567890"
+      }
+    ]
+  },
+  {
+    "isim": "Salon 2",
+    "durum": "Pasif",
+    "oturmaKapasitesi": 80,
+    "ekranTipi": "3D",
+    "guncelFilm": {
+      "filmAdi": "Avatar",
+      "filmTuru": "Fantastik",
+      "filmSuresi": 162,
+      "filmYonetmeni": "James Cameron"
+    },
+    "filmMusteriListesi": [
+      {
+        "isim": "Mehmet",
+        "durum": "Aktif",
+        "email": "mehmet@example.com",
+        "telefonNo": "0987654321"
+      }
+    ]
+  },
+  {
+    "isim": "Salon 3",
+    "durum": "Aktif",
+    "oturmaKapasitesi": 300,
+    "ekranTipi": "IMAX 3D",
+    "guncelFilm": {
+      "filmAdi": "Avengers: Endgame",
+      "filmTuru": "Süper Kahraman",
+      "filmSuresi": 181,
+      "filmYonetmeni": "Russo Brothers"
+    },
+    "filmMusteriListesi": [
+      {
+        "isim": "Zeynep",
+        "durum": "Aktif",
+        "email": "zeynep@example.com",
+        "telefonNo": "1234567890"
+      }
+    ]
+  }
+]

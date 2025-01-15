@@ -1,0 +1,21 @@
+[
+  {
+    "filmAdi": "Interstellar",
+    "filmTuru": "Aksiyon",
+    "filmSuresi": 131,
+    "filmYonetmeni": "Christopher Nolan"
+  },
+  {
+    "filmAdi": "Inception",
+    "filmTuru": "Bilim Kurgu",
+    "filmSuresi": 148,
+    "filmYonetmeni": "Christopher Nolan"
+  },
+  {
+    "filmAdi": "The Godfather",
+    "filmTuru": "Dram",
+    "filmSuresi": 175,
+    "filmYonetmeni": "Francis Ford Coppola"
+  },
+
+]
